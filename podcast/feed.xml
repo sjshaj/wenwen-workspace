@@ -12,8 +12,8 @@
     <generator>podcast-host</generator>
     <atom:link href="https://cdn.jsdelivr.net/gh/sjshaj/wenwen-workspace@main/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>不远不近</itunes:author>
-    <itunes:image href="https://cdn.jsdelivr.net/gh/sjshaj/wenwen-workspace@a47c313b27d7f195ac4d8046b05249dece18ebfb/podcast/buyuan-cover.jpg"/>
-    <image><url>https://cdn.jsdelivr.net/gh/sjshaj/wenwen-workspace@a47c313b27d7f195ac4d8046b05249dece18ebfb/podcast/buyuan-cover.jpg</url><title>不远不近</title><link>https://podcast-host.podcast-host.workers.dev</link></image>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/sjshaj/wenwen-workspace@36d98e75cc637dcdc049b85e6ad1459316f931dc/podcast/buyuan-cover-3000.jpg"/>
+    <image><url>https://cdn.jsdelivr.net/gh/sjshaj/wenwen-workspace@36d98e75cc637dcdc049b85e6ad1459316f931dc/podcast/buyuan-cover-3000.jpg</url><title>不远不近</title><link>https://podcast-host.podcast-host.workers.dev</link></image>
     <itunes:subtitle>看见正在发生的 AI，理解尚未到来的未来</itunes:subtitle>
     <itunes:summary><![CDATA[看见正在发生的 AI，理解尚未到来的未来。一档每周六更新的中文 AI 深度聊播客，由小兔子和小猴子讨论过去一周 AI 技术、产业和社会的真实变化：哪些已经发生，哪些正在发生，哪些还很远。本节目由 AI 辅助研究并使用合成语音制作。]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
